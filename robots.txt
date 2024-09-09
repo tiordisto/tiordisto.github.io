@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://tiordisto.github.io/sitemap.html.gz
+Sitemap: https://tiordisto.github.io/app/sitemap.html.gz
+Sitemap: https://tiordisto.github.io/assets/sitemap.html.gz
+Sitemap: https://tiordisto.github.io/css/sitemap.html.gz
+Sitemap: https://tiordisto.github.io/includes/sitemap.html.gz
+Sitemap: https://tiordisto.github.io/item/sitemap.html.gz
+Sitemap: https://tiordisto.github.io/src/sitemap.html.gz
